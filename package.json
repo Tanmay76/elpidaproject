@@ -8,9 +8,20 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.0",
+    "bootstrap-vue": "^2.22.0",
+    "compression-webpack-plugin": "^10.0.0",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11",
+    "vee-validate": "^4.6.7",
+    "vue": "^2.7.10",
+    "vue-browser-geolocation": "^1.8.0",
+    "vue-loading-overlay": "^5.0.3",
     "vue-router": "^3.2.0",
+    "vue-snotify": "^3.2.1",
+    "vue-toasted": "^1.1.28",
+    "vue-tour": "^2.0.0",
+    "vuejs-progress-bar": "^1.2.8",
     "vuex": "^3.4.0"
   },
   "devDependencies": {
